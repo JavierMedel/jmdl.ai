@@ -7,4 +7,4 @@ A repository that contains my work done in the TensorFlow in Practice Specializa
 * Neural Language Processing in TensorFlow
 * Squences, Time Series and Prediction
 
-![](/images/TensorFlow%20in%20Practice.jpg)
+![image](https://github.com/JavierMedel/jmdl.ai/blob/master/images/TensorFlow%20in%20Practice.jpg)
